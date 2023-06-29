@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.github.matheusbeoulve
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jdbc, flyway, http-client, jackson-databind, java, java-application, jdbc-hikari, jib, junit, logback, maven, micronaut-aop, micronaut-aot, micronaut-validation, mockito, netty-server, openapi, postgres, reactor, reactor-http-client, readme, security, security-annotations, security-ldap, shade, swagger-ui, testcontainers, yaml]
